@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u"MA '19"
 SITENAME = u'The Mlog'
-SITEURL = ''
+SITEURL = 'http://kgpmnc.github.io/blog'
 
 PATH = 'content'
 
@@ -22,12 +22,9 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Facebook Group', 'https://www.facebook.com/groups/mnc14'),
 
 DEFAULT_PAGINATION = 10
 
