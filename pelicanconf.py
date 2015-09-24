@@ -21,10 +21,10 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
+         ('Python.org', 'http://python.org/'),)
 
 # Social widget
-SOCIAL = (('Facebook Group', 'https://www.facebook.com/groups/mnc14'),
+SOCIAL = (('Facebook Group', 'https://www.facebook.com/groups/mnc14'),)
 
 DEFAULT_PAGINATION = 10
 
