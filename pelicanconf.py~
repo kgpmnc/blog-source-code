@@ -8,7 +8,7 @@ SITEURL = 'http://kgpmnc.github.io/blog'
 
 PATH = 'content'
 
-TIMEZONE = 'Asia/Kolkata'
+TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
